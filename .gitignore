@@ -1,2 +1,7 @@
 *.*~
+selenium/
 *.swp
+lib/
+bin/
+local/
+include/
